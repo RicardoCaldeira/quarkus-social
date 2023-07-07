@@ -1,5 +1,7 @@
 # quarkus-social
 
+### Projeto desenvolvido no curso <a href="https://capgemini.udemy.com/course/aprenda-quarkus-e-desenvolva-apis-restful-poderosas-em-java/learn/lecture/29077858#overview">Aprenda Quarkus e Desenvolva API's RESTful Poderosas em Java - Udemy<a/><br/>
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
